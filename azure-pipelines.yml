@@ -12,7 +12,7 @@ resources:
   repositories:
     - repository: Greensight-frontend
       type: git
-      name: Greensight-frontend
+      name: greensight      #Greensight-frontend
       ref: develop
       trigger:
         branches:
