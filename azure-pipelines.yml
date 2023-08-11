@@ -12,7 +12,7 @@ resources:
   repositories:
     - repository: Greensight-frontend
       type: git
-      # name: Vikrant-practice
+      name: Greensight-frontend
       ref: develop
       trigger:
         branches:
